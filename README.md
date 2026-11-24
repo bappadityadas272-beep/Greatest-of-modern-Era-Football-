@@ -38,7 +38,7 @@ Messi is first in every view; Neymar and Ronaldo are a near tie for second.
 | File | Contents |
 |---|---|
 | `index.html` | The notebook as a web page (all code, outputs and charts) |
-| `Project_Report_Messi_Ronaldo_Neymar.pdf` | The project report (47 pages) |
+| `Project_Report_Messi_Ronaldo_Neymar.pdf` | The project report (49 pages) |
 | `Messi_Ronaldo_Neymar_Project.ipynb` | The Jupyter notebook, already run |
 | `data/` | The cleaned StatsBomb tables used by the notebook |
 | `requirements.txt` | Python packages needed |
