@@ -3,7 +3,7 @@
 **Mini Project: Data Analysis, Visualization and Machine Learning Using Python**
 IILM University · B.Tech CSE · Year 2 · Section 2CSE4 · Faculty Guide: Aditya Bangia (Data Visualization)
 
-### 👉 [View the complete notebook as a web page](https://bappadityadas272-beep.github.io/Greatest-of-modern-Era-Football-/)
+### 👉 [View the complete notebook as a web page](https://bappadityadas272-beep.github.io/Greatest-of-modern-Era-Football-/) · 📄 [Read the project report (PDF)](Project_Report_Messi_Ronaldo_Neymar.pdf)
 
 ## Team
 | Name | Roll No. |
@@ -38,6 +38,7 @@ Messi is first in every view; Neymar and Ronaldo are a near tie for second.
 | File | Contents |
 |---|---|
 | `index.html` | The notebook as a web page (all code, outputs and charts) |
+| `Project_Report_Messi_Ronaldo_Neymar.pdf` | The project report (47 pages) |
 | `Messi_Ronaldo_Neymar_Project.ipynb` | The Jupyter notebook, already run |
 | `data/` | The cleaned StatsBomb tables used by the notebook |
 | `requirements.txt` | Python packages needed |
